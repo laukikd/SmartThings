@@ -14,7 +14,7 @@
  */
 metadata {
 	// Automatically generated. Make future change here.
-	definition (name: "FortrezZ MIMOlite Generic", namespace: "SmartThings", author: "laukikd") {
+	definition (name: "FortrezZ MIMOlite Generic", namespace: "fortrezz", author: "laukikd") {
 		capability "Configuration"
 		capability "Switch"
 		capability "Refresh"
